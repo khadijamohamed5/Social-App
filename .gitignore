@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# env
+.env
+myenv.txt
+*.env.*
+
+# firebase service account
+*firebase-adminsdk*.json
+serviceAccountKey.json
+
+# os/editor
+.DS_Store
+
+# logs
+*.log
+
+# personal notes (optional - your call)
+notes_for_me/
