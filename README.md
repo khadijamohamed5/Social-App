@@ -67,7 +67,7 @@ The application provides both **REST APIs** and a **GraphQL endpoint**, allowing
 
 ### 🌐 GraphQL
 
-A GraphQL endpoint is available alongside the REST API for querying users, posts, and comments, as well as executing mutations.
+REST APIs are available for all application features, while GraphQL is supported for querying users, posts, and comments through a dedicated endpoint.
 
 ### 🔔 Notifications
 
