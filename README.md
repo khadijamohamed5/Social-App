@@ -1,4 +1,4 @@
-# 🚀 Social App Backend
+# Social App Backend
 
 A scalable backend for a social media platform built with **Node.js, Express.js, TypeScript, MongoDB, Redis, GraphQL, Socket.IO, and AWS S3**.
 
